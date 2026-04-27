@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Meeting Room API
 
 Nome: Bruno Silva Bastos 
