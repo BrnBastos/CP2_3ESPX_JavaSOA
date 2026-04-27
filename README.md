@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Meeting Room API
 
 Nome: Bruno Silva Bastos 
@@ -104,3 +105,7 @@ H2:
 ```txt
 http://localhost:8080/h2-console
 ```
+=======
+# CP2_3ESPX_JavaSOA
+API REST em Java com Spring Boot para gerenciamento de salas de reunião e reservas, utilizando autenticação JWT, banco H2 em memória, Swagger para documentação e arquitetura separada em camadas.
+>>>>>>> 8b069f74df44b8d7f08f85e91e875ee82a65b675
